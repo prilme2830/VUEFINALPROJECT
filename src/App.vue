@@ -46,7 +46,7 @@ const menuItems = [
 
       <div class="sidebar-bottom">
         <div class="sidebar-help">
-          <span>🌱</span>
+          <span></span>
           <div>
             <strong>Fresh every day</strong>
             <small>Good food, better living.</small>

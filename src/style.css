@@ -461,6 +461,7 @@ textarea:focus {
   border: 1px solid #dce8d9;
   border-radius: 20px;
   box-shadow: 0 6px 20px rgba(36, 75, 42, 0.06);
+  gap: 20px
 }
 
 .cart-summary .btn {

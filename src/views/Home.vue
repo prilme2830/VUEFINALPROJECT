@@ -48,7 +48,7 @@ const featuredProducts = products.value.slice(0, 4);
 
   <section class="benefits">
     <div>
-      🌱 <strong>Fresh Produce</strong>
+      <strong>Fresh Produce</strong>
       <p>Fruits and vegetables for everyday meals.</p>
     </div>
     <div>

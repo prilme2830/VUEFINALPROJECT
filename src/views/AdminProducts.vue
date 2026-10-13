@@ -14,7 +14,6 @@ const emptyForm = () => ({
   category: "Fruits",
   price: "",
   stock: "",
-  emoji: "🍎",
 });
 
 const form = ref(emptyForm());

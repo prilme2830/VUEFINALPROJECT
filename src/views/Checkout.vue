@@ -61,8 +61,8 @@ function placeOrder() {
         <label for="payment">Payment Method</label>
         <select id="payment" v-model="customer.payment">
           <option>Cash on Delivery</option>
-          <option>GCash (Demo)</option>
-          <option>Bank Transfer (Demo)</option>
+          <option>GCash</option>
+          <option>Bank Transfer</option>
         </select>
 
         <button
