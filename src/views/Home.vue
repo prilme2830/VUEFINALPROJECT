@@ -23,7 +23,7 @@ const featuredProducts = products.value.slice(0, 4);
     <div class="hero-art">
       <img src="../assets/apple.webp" alt="Fresh apple" />
       <img src="../assets/broccoli.png" alt="Fresh broccoli" />
-      <img src="../assets/bananana.jpg" alt="Fresh bananas" />
+      <img src="../assets/banana.jpg" alt="Fresh bananas" />
       <img src="../assets/carrot.jpg" alt="Fresh carrots" />
     </div>
   </section>
