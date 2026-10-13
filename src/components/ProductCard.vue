@@ -3,7 +3,7 @@ import { computed } from "vue";
 import { addToCart } from "../stores/shop";
 
 import appleImage from "../assets/apple.webp";
-import bananaImage from "../assets/bananana.jpg";
+import bananaImage from "../assets/banana.jpg";
 import broccoliImage from "../assets/broccoli.png";
 import carrotImage from "../assets/carrot.jpg";
 import grapesImage from "../assets/grapes.webp";
@@ -21,7 +21,7 @@ const props = defineProps({
 const productImages = {
   apple: appleImage,
   banana: bananaImage,
-  bananas: bananaImage,
+  banana: bananaImage,
   orange: orangeImage,
   oranges: orangeImage,
   grapes: grapesImage,
