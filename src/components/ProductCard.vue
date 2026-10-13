@@ -9,6 +9,7 @@ import carrotImage from "../assets/carrot.jpg";
 import grapesImage from "../assets/grapes.webp";
 import orangeImage from "../assets/orange.jpg";
 import tomatoImage from "../assets/tomatoes.jpg";
+import cornImage from "../assets/corn.jpeg";
 
 const props = defineProps({
   product: {
@@ -29,6 +30,7 @@ const productImages = {
   broccoli: broccoliImage,
   tomato: tomatoImage,
   tomatoes: tomatoImage,
+  corn: cornImage,
 };
 
 const image = computed(() => {
